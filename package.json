@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "three": "^0.153.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "name": "project_threejs_ai-main",
+  "description": "![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
